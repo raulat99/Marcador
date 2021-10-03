@@ -1,0 +1,60 @@
+#titulo{
+    border: solid 1px;
+    text-align: center;
+    font-size: 120px;
+}
+
+#marcador{
+    border:solid 1px;
+    text-align: center;
+    align-content: space-between;
+    display: flex;
+    font-size: 200px;
+}
+
+
+#marcadorAmigo{
+    width: 40%;
+    border: solid 1px;
+    margin: 10px;  
+}
+
+#separador{
+    width: 20%;
+    border: solid 1px;
+    margin: 10px;
+}
+
+#marcadorEnemigo{
+    width: 40%;
+    border: solid 1px;
+    margin: 10px;
+}
+
+
+#botones{
+    border:solid 1px;
+    text-align: center;
+    align-content: space-between;
+    display: flex;
+    font-size: 200px;
+}
+
+
+#botonAmigo{
+    width: 40%;
+    border: solid 1px;
+    margin: 10px;  
+}
+
+#reset{
+    width: 20%;
+    border: solid 1px;
+    margin: 10px;
+}
+
+#botonEnemigo{
+    width: 40%;
+    border: solid 1px;
+    margin: 10px;
+}
